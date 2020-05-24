@@ -1,0 +1,17 @@
+c:\users\shoaib.zafar\documents\visual studio 2013\Projects\Magic_Game\Magic_Game\bin\Debug\Magic_Game.exe.config
+c:\users\shoaib.zafar\documents\visual studio 2013\Projects\Magic_Game\Magic_Game\obj\Debug\Magic_Game.csprojResolveAssemblyReference.cache
+c:\users\shoaib.zafar\documents\visual studio 2013\Projects\Magic_Game\Magic_Game\obj\Debug\App.g.cs
+c:\users\shoaib.zafar\documents\visual studio 2013\Projects\Magic_Game\Magic_Game\obj\Debug\Magic_Game_MarkupCompile.cache
+c:\users\shoaib.zafar\documents\visual studio 2013\Projects\Magic_Game\Magic_Game\bin\Debug\Magic_Game.exe
+c:\users\shoaib.zafar\documents\visual studio 2013\Projects\Magic_Game\Magic_Game\bin\Debug\Magic_Game.pdb
+c:\users\shoaib.zafar\documents\visual studio 2013\Projects\Magic_Game\Magic_Game\obj\Debug\Magic Game.baml
+c:\users\shoaib.zafar\documents\visual studio 2013\Projects\Magic_Game\Magic_Game\obj\Debug\Magic Game.g.cs
+c:\users\shoaib.zafar\documents\visual studio 2013\Projects\Magic_Game\Magic_Game\obj\Debug\Magic_Game.g.resources
+c:\users\shoaib.zafar\documents\visual studio 2013\Projects\Magic_Game\Magic_Game\obj\Debug\Magic_Game.Properties.Resources.resources
+c:\users\shoaib.zafar\documents\visual studio 2013\Projects\Magic_Game\Magic_Game\obj\Debug\Magic_Game.csproj.GenerateResource.Cache
+c:\users\shoaib.zafar\documents\visual studio 2013\Projects\Magic_Game\Magic_Game\obj\Debug\Magic_Game.exe
+c:\users\shoaib.zafar\documents\visual studio 2013\Projects\Magic_Game\Magic_Game\obj\Debug\Magic_Game.pdb
+c:\users\shoaib.zafar\documents\visual studio 2013\Projects\Magic_Game\Magic_Game\obj\Debug\Game.baml
+c:\users\shoaib.zafar\documents\visual studio 2013\Projects\Magic_Game\Magic_Game\obj\Debug\Game.g.cs
+c:\users\shoaib.zafar\documents\visual studio 2013\Projects\Magic_Game\Magic_Game\obj\Debug\End.baml
+c:\users\shoaib.zafar\documents\visual studio 2013\Projects\Magic_Game\Magic_Game\obj\Debug\End.g.cs

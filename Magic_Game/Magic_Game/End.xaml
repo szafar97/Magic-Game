@@ -1,0 +1,16 @@
+﻿<Window x:Class="Magic_Game.End"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="End" Height="400" Width="300">
+    <Grid Background="Black">
+        <Label Content="© Shoaib Zafar" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="141,250,0,0" Foreground="#FFFFF300" FontSize="14" Width="109"/>
+        <Button x:Name="Replay" Content="Play Again" HorizontalAlignment="Center" Width="140" Height="40" Margin="81,240,71,89" FontSize="24" Foreground="Red" Background="{x:Null}" FontWeight="Bold" FontStyle="Italic" VerticalAlignment="Center" BorderBrush="{x:Null}" Cursor="Hand" Click="Replay_Click">
+            <Button.Effect>
+                <DropShadowEffect Color="#FF6CE41A"/>
+            </Button.Effect>
+        </Button>
+        <Button x:Name="Exit" Content="Exit" HorizontalAlignment="Right" Width="74" Height="33" Margin="0,10,10,0" FontSize="24" Foreground="#FFF71903" Background="{x:Null}" FontWeight="Bold" FontStyle="Italic" VerticalAlignment="Top" BorderBrush="{x:Null}" Cursor="Hand" Click="Exit_Click"/>
+        <Label Content="Your Number Is" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="36,48,0,0" Width="220" Height="34" Background="{x:Null}" Foreground="#FF7EF589" FontWeight="Bold" FontSize="16" HorizontalContentAlignment="Center"/>
+        <Label x:Name="Answer" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="36,82,0,0" Width="220" Height="124" Background="{x:Null}" Foreground="#FF08FB1E" FontWeight="Bold" FontSize="72" HorizontalContentAlignment="Center"/>
+    </Grid>
+</Window>
